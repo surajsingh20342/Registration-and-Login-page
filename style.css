@@ -1,0 +1,44 @@
+html {
+    scroll-behavior: smooth;
+}
+.top-row li{
+    color: white;
+    padding: 10px;
+}
+.li-1{
+    text-decoration: none;
+    color: white;
+}
+.registration h1{
+    text-align: center;
+    padding-top: 30px;
+    font-family: Geneva;
+}
+.registration {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+.contact-form button:hover{
+    background-color: black;
+    color: white;
+}
+.contact-form{
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+    padding-left: 300px;
+    padding-top: 50px;
+    padding-right: 300px;
+}
+.contact-form .form-control{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.contact-form button{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
